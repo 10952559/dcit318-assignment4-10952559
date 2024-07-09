@@ -1,0 +1,16 @@
+C:\Users\Eli\source\repos\DrawingMouse\obj\Debug\net8.0-windows\DrawingMouse.Form1.resources
+C:\Users\Eli\source\repos\DrawingMouse\obj\Debug\net8.0-windows\DrawingMouse.csproj.GenerateResource.cache
+C:\Users\Eli\source\repos\DrawingMouse\obj\Debug\net8.0-windows\DrawingMouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eli\source\repos\DrawingMouse\obj\Debug\net8.0-windows\DrawingMouse.AssemblyInfoInputs.cache
+C:\Users\Eli\source\repos\DrawingMouse\obj\Debug\net8.0-windows\DrawingMouse.AssemblyInfo.cs
+C:\Users\Eli\source\repos\DrawingMouse\obj\Debug\net8.0-windows\DrawingMouse.csproj.CoreCompileInputs.cache
+C:\Users\Eli\source\repos\DrawingMouse\bin\Debug\net8.0-windows\DrawingMouse.exe
+C:\Users\Eli\source\repos\DrawingMouse\bin\Debug\net8.0-windows\DrawingMouse.deps.json
+C:\Users\Eli\source\repos\DrawingMouse\bin\Debug\net8.0-windows\DrawingMouse.runtimeconfig.json
+C:\Users\Eli\source\repos\DrawingMouse\bin\Debug\net8.0-windows\DrawingMouse.dll
+C:\Users\Eli\source\repos\DrawingMouse\bin\Debug\net8.0-windows\DrawingMouse.pdb
+C:\Users\Eli\source\repos\DrawingMouse\obj\Debug\net8.0-windows\DrawingMouse.dll
+C:\Users\Eli\source\repos\DrawingMouse\obj\Debug\net8.0-windows\refint\DrawingMouse.dll
+C:\Users\Eli\source\repos\DrawingMouse\obj\Debug\net8.0-windows\DrawingMouse.pdb
+C:\Users\Eli\source\repos\DrawingMouse\obj\Debug\net8.0-windows\DrawingMouse.genruntimeconfig.cache
+C:\Users\Eli\source\repos\DrawingMouse\obj\Debug\net8.0-windows\ref\DrawingMouse.dll
