@@ -1,0 +1,16 @@
+C:\Users\Eli\source\repos\AddressBookForm\bin\Debug\net8.0-windows\AddressBookForm.exe
+C:\Users\Eli\source\repos\AddressBookForm\bin\Debug\net8.0-windows\AddressBookForm.deps.json
+C:\Users\Eli\source\repos\AddressBookForm\bin\Debug\net8.0-windows\AddressBookForm.runtimeconfig.json
+C:\Users\Eli\source\repos\AddressBookForm\bin\Debug\net8.0-windows\AddressBookForm.dll
+C:\Users\Eli\source\repos\AddressBookForm\bin\Debug\net8.0-windows\AddressBookForm.pdb
+C:\Users\Eli\source\repos\AddressBookForm\obj\Debug\net8.0-windows\AddressBookForm.Form1.resources
+C:\Users\Eli\source\repos\AddressBookForm\obj\Debug\net8.0-windows\AddressBookForm.csproj.GenerateResource.cache
+C:\Users\Eli\source\repos\AddressBookForm\obj\Debug\net8.0-windows\AddressBookForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eli\source\repos\AddressBookForm\obj\Debug\net8.0-windows\AddressBookForm.AssemblyInfoInputs.cache
+C:\Users\Eli\source\repos\AddressBookForm\obj\Debug\net8.0-windows\AddressBookForm.AssemblyInfo.cs
+C:\Users\Eli\source\repos\AddressBookForm\obj\Debug\net8.0-windows\AddressBookForm.csproj.CoreCompileInputs.cache
+C:\Users\Eli\source\repos\AddressBookForm\obj\Debug\net8.0-windows\AddressBookForm.dll
+C:\Users\Eli\source\repos\AddressBookForm\obj\Debug\net8.0-windows\refint\AddressBookForm.dll
+C:\Users\Eli\source\repos\AddressBookForm\obj\Debug\net8.0-windows\AddressBookForm.pdb
+C:\Users\Eli\source\repos\AddressBookForm\obj\Debug\net8.0-windows\AddressBookForm.genruntimeconfig.cache
+C:\Users\Eli\source\repos\AddressBookForm\obj\Debug\net8.0-windows\ref\AddressBookForm.dll
